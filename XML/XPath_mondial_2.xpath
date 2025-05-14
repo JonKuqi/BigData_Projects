@@ -1,0 +1,9 @@
+(:Qellimi: Gjenja e qyteteve me te rrezikuara nga permbytjet duke filtruar sipas qyteteve qe kane dalse ne det, kane lartesi mbidetare me te ulet se 10 metra dhe kane popullsi mbi 500 mije banore. Kthehet rezultati sipas pattern "qyteti -> shteti".
+ :)
+
+//country/city[
+  located_at[@watertype='sea'] and
+  number(elevation) < 10 and
+  population[last()][number(.) > 500000]
+]/
+  concat(../name[1]/text(), ' —> ', name[1]/text()) (: Eshte vendosur [1] pasi qe ka shtete dhe qytete qe kane 2 emra. :)
