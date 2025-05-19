@@ -19,3 +19,21 @@ def read_csv_as_xml_records(inputfile):
         xml_output += '  </record>\n'
 
     return xml_output
+
+from csv_reader import read_csv_as_xml_records
+
+def CSVtoXML(inputfile, outputfile):
+    if not outputfile.lower().endswith('.xml'):
+        raise ValueError('Expected an XML file')
+
+    xml_output = '<weatherData>\n'
+    xml_output += read_csv_as_xml_records(inputfile)
+    xml_output += '</weatherData>'
+
+    with open(outputfile, 'w', encoding='utf-8') as f:
+        f.write(xml_output)
+
+    print(f"✅ XML file '{outputfile}' created successfully!")
+
+if __name__ == "__main__":
+    CSVtoXML('alcohol-consumption.csv', 'alcohol_output.xml')
