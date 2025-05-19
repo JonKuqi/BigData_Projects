@@ -74,15 +74,15 @@ pip install -r requirements.txt
 
 ## Screenshots/Shembuj Ekzekutimi
 
-- ### Dashboard në Power BI:
-  ![Alt text](/Images/sc1.png)
+### Dashboard në Power BI:
+<img src="/Images/sc1.png" alt="Dashboard" width="700"/>
 
-- ### Query XPath Rezultati/HTML:
-  ![Alt text](/Images/sc2.png)
+### Query XPath Rezultati/HTML:
+<img src="/Images/sc2.png" alt="XPath Result" width="700"/>
 
 <br><br><br>
 
 ## Punuan:
-- Jon Kuçi, Kaltrina Krasniqi, Mirgeta Gashi, Erza Gashi dhe Endrit Kastrati.
+- Endrit Kastrati, Erza Gashi, Jon Kuçi, Kaltrina Krasniqi dhe Mirgeta Gashi.
 
 <a href="#top">Shko në fillim ↑</a>
