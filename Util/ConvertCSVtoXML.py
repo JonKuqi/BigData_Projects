@@ -33,7 +33,7 @@ def CSVtoXML(inputfile, outputfile):
     with open(outputfile, 'w', encoding='utf-8') as f:
         f.write(xml_output)
 
-    print(f"✅ XML file '{outputfile}' created successfully!")
+    print(f" XML file '{outputfile}' created successfully!")
 
 if __name__ == "__main__":
     CSVtoXML('alcohol-consumption.csv', 'alcohol_output.xml')
