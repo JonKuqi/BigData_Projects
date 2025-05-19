@@ -20,9 +20,13 @@ let $html :=
     <head>
       <title>Best Universities per Country</title>
       <style>
+        ![CDATA[
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h2 { color: darkred; }
         table { border-collapse: collapse; width: 100%; }
-        th, td { border: 1px solid black; padding: 8px; text-align: left; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
         th { background-color: #f2f2f2; }
+      ]]
       </style>
     </head>
     <body>
