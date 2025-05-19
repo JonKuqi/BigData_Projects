@@ -78,7 +78,7 @@ pip install -r requirements.txt
 <img src="/Images/sc1.png" alt="Dashboard" width="700"/>
 
 ### Query XPath Rezultati/HTML:
-<img src="/Images/sc2.png" alt="XPath Result" width="700"/>
+<img src="/Images/sc2.png" alt="XPath Result" width="700" height="400"/>
 
 <br><br><br>
 
