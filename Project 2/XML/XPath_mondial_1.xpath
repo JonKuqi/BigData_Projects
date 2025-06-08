@@ -1,0 +1,4 @@
+(: Qellimi: Gjendja e shteteve te pavarsuara qe kane qene me te prekura nga sundimi i Britanise se madhe "Great Britain" duke filtruar ne gjuhen folese 'English' mbi 50% :)
+//country[
+  indep_date[@from='GB'] and
+  language[. = 'English' and number(@percentage) > 50]]/name/text()
