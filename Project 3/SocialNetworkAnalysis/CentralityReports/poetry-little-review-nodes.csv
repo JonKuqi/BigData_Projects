@@ -1,0 +1,198 @@
+Source,Target,Type,Id,Label,Weight
+"Hecht, Ben",jh,Directed,18733,,7
+"Hecht, Ben","Bodenheim, Maxwell",Directed,18734,,5
+"Hecht, Ben","Aldington, Richard",Directed,18735,,7
+"Hecht, Ben",K.,Directed,18736,,4
+"Hecht, Ben","Dawson, Mitchell",Directed,18737,,3
+"Hecht, Ben","Tietjens, Eunice",Directed,18743,,2
+"Hecht, Ben","Ficke, Arthur Davison",Directed,18746,,4
+"Hecht, Ben","Joyce, James",Directed,18749,,9
+"Hecht, Ben","Fletcher, John Gould",Directed,18750,,2
+"Hecht, Ben","Bynner, Witter",Directed,18751,,3
+"Hecht, Ben","Sandburg, Carl",Directed,18752,,2
+"Hecht, Ben","Schuchert, Herman",Directed,18753,,2
+"Hecht, Ben","Nietzsche, Friedrich",Directed,18757,,6
+"Hecht, Ben","Lowell, Amy",Directed,18760,,6
+"Hecht, Ben","Williams, William Carlos",Directed,18763,,6
+"Hecht, Ben","Rodker, John",Directed,18772,,7
+"Hecht, Ben","Anderson, Sherwood",Directed,18775,,7
+"Hecht, Ben","Foster, George Burman",Directed,18781,,2
+"Hecht, Ben","Masters, Edgar Lee",Directed,18785,,2
+"Hecht, Ben","Kaun, Alexander S.",Directed,18787,,5
+"Anderson, Sherwood","Tietjens, Eunice",Directed,18810,,3
+"Anderson, Sherwood",jh,Directed,18816,,11
+"Anderson, Sherwood","Bodenheim, Maxwell",Directed,18818,,7
+"Anderson, Sherwood","Aldington, Richard",Directed,18819,,4
+"Anderson, Sherwood","Masters, Edgar Lee",Directed,18824,,2
+"Anderson, Sherwood","Bynner, Witter",Directed,18830,,5
+"Anderson, Sherwood","Sandburg, Carl",Directed,18831,,3
+"Anderson, Sherwood","Joyce, James",Directed,18836,,11
+"Anderson, Sherwood","Fletcher, John Gould",Directed,18839,,2
+"Anderson, Sherwood","Schuchert, Herman",Directed,18842,,2
+"Anderson, Sherwood","Nietzsche, Friedrich",Directed,18847,,4
+"Anderson, Sherwood","Ficke, Arthur Davison",Directed,18850,,5
+"Anderson, Sherwood","Lowell, Amy",Directed,18851,,6
+"Anderson, Sherwood","Williams, William Carlos",Directed,18855,,6
+"Anderson, Sherwood","Dawson, Mitchell",Directed,18862,,4
+"Anderson, Sherwood","Rodker, John",Directed,18865,,7
+"Anderson, Sherwood","Soule, George",Directed,18874,,3
+"Anderson, Sherwood","Carnevali, Emanuel",Directed,18877,,4
+"Anderson, Sherwood","Foster, George Burman",Directed,18878,,2
+"Anderson, Sherwood",K.,Directed,18879,,3
+"Anderson, Sherwood","Saphier, William",Directed,18884,,5
+"Anderson, Sherwood","Kaun, Alexander S.",Directed,18886,,4
+"Lowell, Amy",jh,Directed,19290,,3
+"Lowell, Amy",K.,Directed,19291,,6
+"Lowell, Amy","Dawson, Mitchell",Directed,19292,,4
+"Lowell, Amy","Masters, Edgar Lee",Directed,19293,,5
+"Lowell, Amy","Tietjens, Eunice",Directed,19294,,10
+"Lowell, Amy","Fletcher, John Gould",Directed,19298,,9
+"Lowell, Amy","Schuchert, Herman",Directed,19302,,4
+"Lowell, Amy","Bodenheim, Maxwell",Directed,19318,,10
+"Lowell, Amy","Aldington, Richard",Directed,19321,,11
+"Lowell, Amy","Saphier, William",Directed,19326,,3
+"Lowell, Amy","Foster, George Burman",Directed,19329,,9
+"Lowell, Amy","Soule, George",Directed,19332,,8
+"Lowell, Amy","Bynner, Witter",Directed,19351,,7
+"Lowell, Amy","Ficke, Arthur Davison",Directed,19352,,6
+"Lowell, Amy","Joyce, James",Directed,19353,,2
+"Lowell, Amy","Nietzsche, Friedrich",Directed,19358,,7
+"Lowell, Amy","Kaun, Alexander S.",Directed,19368,,6
+"Lowell, Amy","Sandburg, Carl",Directed,19369,,6
+"Nietzsche, Friedrich","Aldington, Richard",Directed,19405,,5
+"Nietzsche, Friedrich",K.,Directed,19407,,6
+"Nietzsche, Friedrich","Dawson, Mitchell",Directed,19408,,3
+"Nietzsche, Friedrich","Tietjens, Eunice",Directed,19412,,6
+"Nietzsche, Friedrich","Bynner, Witter",Directed,19414,,2
+"Nietzsche, Friedrich","Sandburg, Carl",Directed,19415,,2
+"Nietzsche, Friedrich","Ficke, Arthur Davison",Directed,19416,,7
+"Nietzsche, Friedrich","Fletcher, John Gould",Directed,19417,,2
+"Nietzsche, Friedrich","Schuchert, Herman",Directed,19418,,3
+"Nietzsche, Friedrich","Bodenheim, Maxwell",Directed,19421,,3
+"Nietzsche, Friedrich","Soule, George",Directed,19430,,5
+"Nietzsche, Friedrich","Foster, George Burman",Directed,19431,,5
+"Nietzsche, Friedrich","Saphier, William",Directed,19435,,3
+"Nietzsche, Friedrich","Kaun, Alexander S.",Directed,19436,,6
+"Joyce, James","Carnevali, Emanuel",Directed,19517,,6
+"Joyce, James","Williams, William Carlos",Directed,19522,,9
+"Joyce, James","Aldington, Richard",Directed,19525,,2
+"Joyce, James","Saphier, William",Directed,19528,,3
+"Joyce, James","Bynner, Witter",Directed,19532,,4
+"Joyce, James","Sandburg, Carl",Directed,19537,,2
+"Joyce, James",jh,Directed,19542,,12
+"Joyce, James","Bodenheim, Maxwell",Directed,19546,,12
+"Joyce, James","Rodker, John",Directed,19548,,11
+"Soule, George","Bodenheim, Maxwell",Directed,19850,,5
+"Soule, George","Aldington, Richard",Directed,19851,,5
+"Soule, George",K.,Directed,19852,,7
+"Soule, George","Dawson, Mitchell",Directed,19853,,2
+"Soule, George","Tietjens, Eunice",Directed,19855,,9
+"Soule, George","Ficke, Arthur Davison",Directed,19858,,7
+"Soule, George","Fletcher, John Gould",Directed,19860,,2
+"Soule, George","Schuchert, Herman",Directed,19862,,6
+"Soule, George","Foster, George Burman",Directed,19873,,10
+"Soule, George","Saphier, William",Directed,19879,,6
+"Soule, George","Kaun, Alexander S.",Directed,19880,,6
+"Rodker, John","Carnevali, Emanuel",Directed,19934,,3
+"Rodker, John",jh,Directed,19938,,13
+"Rodker, John","Bodenheim, Maxwell",Directed,19939,,6
+"Rodker, John","Aldington, Richard",Directed,19940,,3
+"Rodker, John","Fletcher, John Gould",Directed,19945,,2
+"Rodker, John","Bynner, Witter",Directed,19946,,2
+"Rodker, John","Williams, William Carlos",Directed,19963,,6
+"Schuchert, Herman","Bodenheim, Maxwell",Directed,20212,,4
+"Schuchert, Herman","Aldington, Richard",Directed,20214,,6
+"Schuchert, Herman","Fletcher, John Gould",Directed,20216,,3
+"Schuchert, Herman","Dawson, Mitchell",Directed,20217,,2
+"Schuchert, Herman","Tietjens, Eunice",Directed,20220,,5
+"Schuchert, Herman","Saphier, William",Directed,20221,,5
+"Schuchert, Herman","Ficke, Arthur Davison",Directed,20223,,4
+"Schuchert, Herman","Foster, George Burman",Directed,20225,,5
+"Schuchert, Herman",K.,Directed,20227,,7
+"Schuchert, Herman","Kaun, Alexander S.",Directed,20229,,4
+"Fletcher, John Gould","Bodenheim, Maxwell",Directed,20308,,4
+"Fletcher, John Gould","Aldington, Richard",Directed,20309,,6
+"Fletcher, John Gould",K.,Directed,20310,,2
+"Fletcher, John Gould","Masters, Edgar Lee",Directed,20312,,5
+"Fletcher, John Gould","Tietjens, Eunice",Directed,20313,,4
+"Fletcher, John Gould","Sandburg, Carl",Directed,20314,,2
+"Fletcher, John Gould","Carnevali, Emanuel",Directed,20320,,5
+"Fletcher, John Gould","Bynner, Witter",Directed,20321,,3
+"Fletcher, John Gould","Dawson, Mitchell",Directed,20333,,2
+"Fletcher, John Gould","Saphier, William",Directed,20334,,3
+"Fletcher, John Gould","Foster, George Burman",Directed,20336,,2
+"Fletcher, John Gould","Kaun, Alexander S.",Directed,20342,,4
+"Tietjens, Eunice","Carnevali, Emanuel",Directed,20403,,2
+"Tietjens, Eunice",K.,Directed,20405,,5
+"Tietjens, Eunice","Masters, Edgar Lee",Directed,20407,,2
+"Tietjens, Eunice","Sandburg, Carl",Directed,20410,,5
+"Tietjens, Eunice","Aldington, Richard",Directed,20423,,7
+"Tietjens, Eunice","Foster, George Burman",Directed,20429,,8
+"Tietjens, Eunice","Bodenheim, Maxwell",Directed,20434,,4
+"Tietjens, Eunice","Saphier, William",Directed,20436,,6
+"Tietjens, Eunice","Bynner, Witter",Directed,20437,,3
+"Tietjens, Eunice","Ficke, Arthur Davison",Directed,20443,,8
+"Tietjens, Eunice","Kaun, Alexander S.",Directed,20450,,4
+"Dawson, Mitchell","Kaun, Alexander S.",Directed,20471,,3
+"Dawson, Mitchell",jh,Directed,20472,,2
+"Dawson, Mitchell","Bodenheim, Maxwell",Directed,20474,,2
+"Dawson, Mitchell","Aldington, Richard",Directed,20475,,5
+"Dawson, Mitchell","Masters, Edgar Lee",Directed,20476,,2
+"Dawson, Mitchell","Bynner, Witter",Directed,20479,,3
+"Dawson, Mitchell","Ficke, Arthur Davison",Directed,20481,,2
+"Dawson, Mitchell","Saphier, William",Directed,20482,,3
+"Dawson, Mitchell","Sandburg, Carl",Directed,20483,,2
+"Dawson, Mitchell",K.,Directed,20486,,4
+K.,"Bodenheim, Maxwell",Directed,20506,,5
+K.,"Aldington, Richard",Directed,20507,,6
+K.,"Saphier, William",Directed,20508,,5
+K.,"Bynner, Witter",Directed,20510,,3
+K.,"Sandburg, Carl",Directed,20511,,2
+K.,"Ficke, Arthur Davison",Directed,20512,,7
+K.,"Kaun, Alexander S.",Directed,20519,,6
+K.,"Foster, George Burman",Directed,20520,,6
+"Aldington, Richard","Carnevali, Emanuel",Directed,20526,,4
+"Aldington, Richard","Masters, Edgar Lee",Directed,20528,,4
+"Aldington, Richard",jh,Directed,20533,,4
+"Aldington, Richard","Williams, William Carlos",Directed,20535,,3
+"Aldington, Richard","Foster, George Burman",Directed,20542,,6
+"Aldington, Richard","Saphier, William",Directed,20544,,4
+"Aldington, Richard","Bodenheim, Maxwell",Directed,20546,,10
+"Aldington, Richard","Bynner, Witter",Directed,20549,,3
+"Aldington, Richard","Sandburg, Carl",Directed,20551,,4
+"Aldington, Richard","Ficke, Arthur Davison",Directed,20553,,8
+"Aldington, Richard","Kaun, Alexander S.",Directed,20560,,7
+jh,"Bodenheim, Maxwell",Directed,20562,,9
+jh,"Bynner, Witter",Directed,20570,,5
+jh,"Carnevali, Emanuel",Directed,20573,,2
+jh,"Saphier, William",Directed,20594,,2
+jh,"Williams, William Carlos",Directed,20595,,9
+"Sandburg, Carl","Carnevali, Emanuel",Directed,20645,,2
+"Sandburg, Carl","Bodenheim, Maxwell",Directed,20646,,2
+"Sandburg, Carl","Saphier, William",Directed,20647,,3
+"Sandburg, Carl","Kaun, Alexander S.",Directed,20662,,2
+"Sandburg, Carl","Williams, William Carlos",Directed,20663,,2
+"Kaun, Alexander S.","Saphier, William",Directed,20666,,4
+"Kaun, Alexander S.","Bynner, Witter",Directed,20667,,3
+"Kaun, Alexander S.","Ficke, Arthur Davison",Directed,20668,,7
+"Kaun, Alexander S.","Bodenheim, Maxwell",Directed,20671,,3
+"Kaun, Alexander S.","Foster, George Burman",Directed,20677,,6
+"Ficke, Arthur Davison","Bodenheim, Maxwell",Directed,20874,,3
+"Ficke, Arthur Davison","Saphier, William",Directed,20876,,4
+"Ficke, Arthur Davison","Bynner, Witter",Directed,20879,,3
+"Ficke, Arthur Davison","Masters, Edgar Lee",Directed,20883,,2
+"Ficke, Arthur Davison","Foster, George Burman",Directed,20888,,7
+"Bynner, Witter","Carnevali, Emanuel",Directed,20890,,3
+"Bynner, Witter","Williams, William Carlos",Directed,20894,,5
+"Bynner, Witter","Bodenheim, Maxwell",Directed,20897,,4
+"Bynner, Witter","Foster, George Burman",Directed,20900,,2
+"Saphier, William","Bodenheim, Maxwell",Directed,20908,,6
+"Saphier, William","Carnevali, Emanuel",Directed,20913,,2
+"Saphier, William","Williams, William Carlos",Directed,20915,,2
+"Saphier, William","Foster, George Burman",Directed,20918,,5
+"Bodenheim, Maxwell","Carnevali, Emanuel",Directed,20926,,7
+"Bodenheim, Maxwell","Williams, William Carlos",Directed,20928,,7
+"Bodenheim, Maxwell","Masters, Edgar Lee",Directed,20930,,2
+"Bodenheim, Maxwell","Foster, George Burman",Directed,20943,,5
+"Foster, George Burman","Masters, Edgar Lee",Directed,20980,,2
+"Williams, William Carlos","Carnevali, Emanuel",Directed,21031,,7
