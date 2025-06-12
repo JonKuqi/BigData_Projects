@@ -3,7 +3,7 @@
     <img src="/Images/logo1.png" alt="Logo" height="40">
   </a>
 
-<h3 align="center">XML & Vizualizimi i të dhënave</h3>
+<h3 align="center">Projekti 2 dhe 3 nga lenda : Big Data</h3>
 </p>
 
 ## Përmbledhje
