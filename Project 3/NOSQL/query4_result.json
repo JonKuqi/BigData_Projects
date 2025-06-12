@@ -1,0 +1,10 @@
+[
+  { name: 'Bonaire', capital: 'Kralendijk' },
+  { name: 'Ceuta', capital: 'Ceuta' },
+  { name: 'Christmas Island', capital: 'Flying Fish Cove' },
+  { name: 'Cocos Islands', capital: 'West Island' },
+  { name: 'Gaza Strip', capital: '' },
+  { name: 'Melilla', capital: 'Melilla' },
+  { name: 'Svalbard', capital: 'Longyearbyen' },
+  { name: 'West Bank', capital: 'Ramallah' }
+]

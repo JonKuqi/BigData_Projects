@@ -1,0 +1,110 @@
+[
+  {
+    name: 'Ethiopia',
+    capital: 'Addis Ababa'
+  },
+  {
+    name: 'Andorra',
+    capital: 'Andorra la Vella'
+  },
+  {
+    name: 'Turkmenistan',
+    capital: 'Ashgabat'
+  },
+  {
+    name: 'Azerbaijan',
+    capital: 'Baku'
+  },
+  {
+    name: 'Kyrgyzstan',
+    capital: 'Bishkek'
+  },
+  {
+    name: 'Moldova',
+    capital: 'Chişinău'
+  },
+  {
+    name: 'Tajikistan',
+    capital: 'Dushanbe'
+  },
+  {
+    name: 'Botswana',
+    capital: 'Gaborone'
+  },
+  {
+    name: 'Zimbabwe',
+    capital: 'Harare'
+  },
+  {
+    name: 'Afghanistan',
+    capital: 'Kabul'
+  },
+  {
+    name: 'Uganda',
+    capital: 'Kampala'
+  },
+  {
+    name: 'Nepal',
+    capital: 'Kathmandu'
+  },
+  {
+    name: 'Rwanda',
+    capital: 'Kigali'
+  },
+  {
+    name: 'Bonaire',
+    capital: 'Kralendijk'
+  },
+  {
+    name: 'Bolivia',
+    capital: 'La Paz'
+  },
+  {
+    name: 'Malawi',
+    capital: 'Lilongwe'
+  },
+  {
+    name: 'Zambia',
+    capital: 'Lusaka'
+  },
+  {
+    name: 'Lesotho',
+    capital: 'Maseru'
+  },
+  {
+    name: 'Eswatini',
+    capital: 'Mbabane'
+  },
+  {
+    name: 'Belarus',
+    capital: 'Minsk'
+  },
+  {
+    name: 'Burkina Faso',
+    capital: 'Ouagadougou'
+  },
+  {
+    name: 'Kosovo',
+    capital: 'Prishtine'
+  },
+  {
+    name: 'West Bank',
+    capital: 'Ramallah'
+  },
+  {
+    name: 'San Marino',
+    capital: 'San Marino'
+  },
+  {
+    name: 'Bhutan',
+    capital: 'Thimphu'
+  },
+  {
+    name: 'Uzbekistan',
+    capital: 'Toshkent'
+  },
+  {
+    name: 'Vatican City',
+    capital: 'Vatican City'
+  }
+]
