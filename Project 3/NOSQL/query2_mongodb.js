@@ -6,7 +6,7 @@ let riverCities = db.located.distinct("City", {
   ]
 });
 
-let result = db.country.find(
+let result1 = db.country.find(
   {
     Code: { $nin: seaCountries },
     Capital: { $nin: riverCities }
